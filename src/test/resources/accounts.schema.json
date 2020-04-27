@@ -16,7 +16,7 @@
         "type": "integer"
       },
       "name": {
-        "type": "string",
+        "type": "boolean",
         "minLength": 1
       },
       "number": {
